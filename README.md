@@ -4,3 +4,5 @@
 [Linux学习与实践记录](https://www.yuque.com/dpskw/algorithm)
 
 [git安装与学习](https://www.yuque.com/dpskw/mqyqvn)
+
+[计算器](https://gitee.com/dpskw/git_training)
